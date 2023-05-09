@@ -22,3 +22,7 @@ urlpatterns = [
 #  Active Token Validity -> 1day
 # Verify Token -> http POST http://127.0.0.1:8000/api/token/verify/ token="<token>"
 # Refresh Token -> http POST http://127.0.0.1:8000/api/token/refresh/ token="<refresh token>"
+
+
+#  "access": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ0b2tlbl90eXBlIjoiYWNjZXNzIiwiZXhwIjoxNjgzNTk5Mzg1LCJpYXQiOjE2ODM1OTkwODUsImp0aSI6Ijg2Y2YzZGEzNWI1ODQ5MTU5NzIwMTBjYTI3Y2Q5ODlmIiwidXNlcl9pZCI6Mn0.EHyuIxmTTLZEDD27I6iZMfFa8Okh-KrC-RfDWfXEKig",       
+    # "refresh": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ0b2tlbl90eXBlIjoicmVmcmVzaCIsImV4cCI6MTY4MzY4NTQ4NSwiaWF0IjoxNjgzNTk5MDg1LCJqdGkiOiIxNTNmMGUyNDZiMDQ0OGJmYjk5NTc3ZGQxNTliZDFhYSIsInVzZXJfaWQiOjJ9.v2iWuyfFpXiPyIJmoMJ1fnrI7CTri6V0m2XymmvVS7I"   
